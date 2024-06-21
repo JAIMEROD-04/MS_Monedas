@@ -1,0 +1,7 @@
+com\mx\MS_Moneda\Service\MonedaService.class
+com\mx\MS_Moneda\Dominio\MonedaId.class
+com\mx\MS_Moneda\MsMonedaApplication.class
+com\mx\MS_Moneda\Dao\IMoneda.class
+com\mx\MS_Moneda\Controller\MonedaWS.class
+com\mx\MS_Moneda\Config\SwaggerConfig.class
+com\mx\MS_Moneda\Dominio\Moneda.class
